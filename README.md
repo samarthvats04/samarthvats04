@@ -15,4 +15,10 @@ I'm a CSE Data Science student, currently exploring machine learning and Web3 Ap
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samarthvats04&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
+###
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
