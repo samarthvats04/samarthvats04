@@ -86,18 +86,8 @@ Outside of coding, I enjoy working out in the gym and gaming.
 ![](https://github-readme-stats.vercel.app/api?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=samarthvats04&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![My LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/samarthvats?theme=dark)
 
----
-
-
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/i3d7sgn16y7ffs9geonl1g4wr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i3d7sgn16y7ffs9geonl1g4wr&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 ---
 
