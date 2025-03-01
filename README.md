@@ -17,15 +17,13 @@ Outside of coding, I enjoy working out in the gym and gaming.
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarthvats004@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/_samarthvats_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  <a href="https://leetcode.com/u/samarthvats/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="45" alt="hackerrank logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/samarthvats004" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="hackerrank logo"  />
   </a>
-  <a href="https://leetcode.com/u/samarthvats/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="45" alt="hackerrank logo"  />
-  </a>
+  
 </div>
 
 ###
