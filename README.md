@@ -34,7 +34,7 @@ Outside of coding, I enjoy working out in the gym and gaming.
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
   <img width="24" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
