@@ -83,7 +83,7 @@ Outside of coding, I enjoy working out in the gym and gaming.
 
 ###
 ---
-## 📊 GitHub Stats
+## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=samarthvats04&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
