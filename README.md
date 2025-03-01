@@ -1,6 +1,5 @@
 # 💫 About Me
-
-I'm a pre-final year CSE Data Science student, currently exploring machine learning and Web3 Application development.<br>
+> I'm a pre-final year CSE Data Science student, currently exploring machine learning and Web3 Application development.<br>
 I like to work on projects that enhance my knowledge and skills that I can further demonstrate in real-world scenarios.<br><br>
 Outside of coding, I enjoy working out in the gym and gaming.
 
