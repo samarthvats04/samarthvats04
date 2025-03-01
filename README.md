@@ -1,19 +1,106 @@
-# 💫 About Me:
-I'm a CSE Data Science student, currently exploring machine learning and Web3 Application development.<br>I like to work on projects that enhance my knowledge and skills that I can further demonstrate in real-world scenarios.<br><br>Outside of coding, I’m into working out in the gym and gaming.
+# 💫 About Me
 
+I'm a pre-final year CSE Data Science student, currently exploring machine learning and Web3 Application development.<br>
+I like to work on projects that enhance my knowledge and skills that I can further demonstrate in real-world scenarios.<br><br>
+Outside of coding, I enjoy working out in the gym and gaming.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_samarthvats_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-vats-306930281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthvats004@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samarthvats04&theme=synthwave&hide_border=false)<br/>
+<h2 align="left">🌐 Socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEsFUj4jrgHGAAAAZVRVI74ee4zJeA49jONgWJWPT_fNrfFHqSsm69AxtUojdvh889RSMpENZQnqpfVLlaR-ufO-mEQV6KCnf2p1SQ8onhuDpFAfM8iUa074fa2hAe3aptgO5c=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsamarth-vats-306930281%2F" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarthvats004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/_samarthvats_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/samarthvats004" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="hackerrank logo"  />
+  </a>
+</div>
+
+###
+---
+
+<h2 align="left">💻 Tech Stack</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=blender" height="50" alt="blender logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="50" alt="solidity logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=remix" height="50" alt="remix logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
+  <img width="24" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+</div>
+
+###
+---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=samarthvats04&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthvats04&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samarthvats04&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/i3d7sgn16y7ffs9geonl1g4wr">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=i3d7sgn16y7ffs9geonl1g4wr&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+---
+
+
+
+
